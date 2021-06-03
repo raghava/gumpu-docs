@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/create-an-account",
+  "id": "tutorial-basics/create-an-account",
+  "isDocsHomePage": false,
+  "title": "Create an new account",
+  "description": "1. Signup",
+  "source": "@site/docs/tutorial-basics/create-an-account.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-an-account",
+  "permalink": "/docs/tutorial-basics/create-an-account",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/tutorial-basics/create-an-account.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to create new Organization",
+    "permalink": "/docs/tutorial-basics/create-a-organization"
+  },
+  "next": {
+    "title": "Create an Account profile",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  }
+}
